@@ -1,3 +1,5 @@
+package br.org.pulsemais.jogo;
+
 import jakarta.persistence.*;
 
 @Entity
