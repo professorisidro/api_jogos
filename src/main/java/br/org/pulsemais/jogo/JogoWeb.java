@@ -2,7 +2,7 @@ package br.org.pulsemais.jogo;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
-
+@CrossOrigin("*")
 @RestController
 public class JogoWeb{
 

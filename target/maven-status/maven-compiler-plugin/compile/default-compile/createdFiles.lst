@@ -1,4 +1,4 @@
-JogoWeb.class
-JogoBD.class
+br/org/pulsemais/jogo/JogoWeb.class
+br/org/pulsemais/jogo/Jogo.class
+br/org/pulsemais/jogo/JogoBD.class
 br/org/pulsemais/jogo/JogoApplication.class
-Jogo.class

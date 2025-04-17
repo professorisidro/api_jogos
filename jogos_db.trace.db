@@ -1,0 +1,9 @@
+2025-04-16 23:49:33.540795Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TBL_JOGO" not found (this database is empty); SQL statement:
+select j1_0.titulo,j1_0.genero,j1_0.plataforma,j1_0.preco from tbl_jogo j1_0 [42104-232]
+2025-04-16 23:49:33.728401Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TBL_JOGO" not found (this database is empty); SQL statement:
+select j1_0.titulo,j1_0.genero,j1_0.plataforma,j1_0.preco from tbl_jogo j1_0 [42104-232]
+2025-04-16 23:50:37.646178Z jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TBL_JOGO" not found (this database is empty); SQL statement:
+select j1_0.titulo,j1_0.genero,j1_0.plataforma,j1_0.preco from tbl_jogo j1_0 [42104-232]
